@@ -1,0 +1,11 @@
+export const initialUsers = [];
+export const initialLeads = [];
+export const initialProposals = [];
+export const initialClients = [];
+export const initialFollowUps = [];
+export const initialProjects = [];
+export const initialTasks = [];
+export const initialMilestones = [];
+export const initialTeamMembers = [];
+export const initialInvoices = [];
+export const initialDocuments = [];
